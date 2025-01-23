@@ -9,6 +9,7 @@ For sake of simplicity (if you are coming from a background of making mods for _
 - A working Steam installation, with Capuchin downloaded
 - Any mod installer compatable with BepInEx 6[^3]
 - Visual Studio 2019 or 2022.[^4]
+- .NET Framework 4.7.2 / .NET Framework 4.8
 
 ## 1. Install BepInEx
 ### 1.1. Using Banana/Capuchin ModManager
