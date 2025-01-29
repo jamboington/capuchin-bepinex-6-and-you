@@ -23,6 +23,9 @@ Run Capuchin.exe at least once to generate the libraries you need to develop the
 ## 2. Mod Initialization
 **If you have not run Capuchin at least once after your install[^5], please do so.**
 
+> [!NOTE]
+> Your project target should be `Class Library (.NET Framework)`
+
 There should be all the binaries you need to make your mod in your ``/BepInEx`` directory. It will have all the ``*.dll``s you need to import into your project. After that, create a Gorilla Tag mod as usual, however, **you must create the mod differently**.
 
 ```cs
